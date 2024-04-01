@@ -1,0 +1,165 @@
+    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800px"
+        height="600px" viewBox="0 0 4 3" preserveAspectRatio="xMidYMid">
+
+        <g transform="translate(2, 1.5) scale(0.4, -0.4)">
+            <g transform="translate(2,2) scale(0.3,0.3)">
+                <g transform="scale(1,3) translate(0,-1)">
+                    <polygon points="-0.5,0 0.5,0 0,1" fill="green" stroke="green" stroke-width="0.02" />
+                </g>
+                <g>
+                    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s"
+                        repeatCount="indefinite" additive="sum" />
+                    <g transform="translate(2, 0)">
+                        <g>
+                            <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s"
+                                repeatCount="indefinite" additive="sum" />
+                            <polygon
+                                points="1,0 0.5000000000000001,0.8660254037844386 -0.4999999999999998,0.8660254037844387 -1,1.2246467991473532e-16 -0.5000000000000004,-0.8660254037844385 0.49999999999999933,-0.866025403784439 1,-1.133107779529596e-15 "
+                                fill="none" stroke="black" stroke-width="0.02" />
+                            <line x1=1 y1=0 x2="0" y2="0" stroke-width="0.02" stroke="black" />
+                            <line x1=0.5000000000000001 y1=0.8660254037844386 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=-0.4999999999999998 y1=0.8660254037844387 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=-1 y1=1.2246467991473532e-16 x2="0" y2="0" stroke-width="0.02" stroke="black" />
+                            <line x1=-0.5000000000000004 y1=-0.8660254037844385 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=0.49999999999999933 y1=-0.866025403784439 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=1 y1=-1.133107779529596e-15 x2="0" y2="0" stroke-width="0.02" stroke="black" />
+                        </g>
+                    </g>
+                    <g transform="translate(-2, 0)">
+                        <g>
+                            <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s"
+                                repeatCount="indefinite" additive="sum" />
+                            <polygon
+                                points="1,0 0.5000000000000001,0.8660254037844386 -0.4999999999999998,0.8660254037844387 -1,1.2246467991473532e-16 -0.5000000000000004,-0.8660254037844385 0.49999999999999933,-0.866025403784439 1,-1.133107779529596e-15 "
+                                fill="none" stroke="black" stroke-width="0.02" />
+                            <line x1=1 y1=0 x2="0" y2="0" stroke-width="0.02" stroke="black" />
+                            <line x1=0.5000000000000001 y1=0.8660254037844386 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=-0.4999999999999998 y1=0.8660254037844387 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=-1 y1=1.2246467991473532e-16 x2="0" y2="0" stroke-width="0.02" stroke="black" />
+                            <line x1=-0.5000000000000004 y1=-0.8660254037844385 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=0.49999999999999933 y1=-0.866025403784439 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=1 y1=-1.133107779529596e-15 x2="0" y2="0" stroke-width="0.02" stroke="black" />
+                        </g>
+                    </g>
+
+                    <g transform="scale(4.3,0.3)">
+                        <rect x="-0.5" y="-0.5" width="1" height="1" stroke="red" fill="red" stroke-width="0.02" />
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(0,-0.85) scale(0.7,0.7)">
+                <g transform="scale(1,3) translate(0,-1)">
+                    <polygon points="-0.5,0 0.5,0 0,1" fill="blue" stroke="blue" stroke-width="0.02" />
+                </g>
+                <g>
+                    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s"
+                        repeatCount="indefinite" additive="sum" />
+                    <g transform="translate(2, 0)">
+                        <g>
+                            <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s"
+                                repeatCount="indefinite" additive="sum" />
+                            <polygon
+                                points="1,0 0.5000000000000001,0.8660254037844386 -0.4999999999999998,0.8660254037844387 -1,1.2246467991473532e-16 -0.5000000000000004,-0.8660254037844385 0.49999999999999933,-0.866025403784439 1,-1.133107779529596e-15 "
+                                fill="none" stroke="black" stroke-width="0.02" />
+                            <line x1=1 y1=0 x2="0" y2="0" stroke-width="0.02" stroke="black" />
+                            <line x1=0.5000000000000001 y1=0.8660254037844386 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=-0.4999999999999998 y1=0.8660254037844387 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=-1 y1=1.2246467991473532e-16 x2="0" y2="0" stroke-width="0.02" stroke="black" />
+                            <line x1=-0.5000000000000004 y1=-0.8660254037844385 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=0.49999999999999933 y1=-0.866025403784439 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=1 y1=-1.133107779529596e-15 x2="0" y2="0" stroke-width="0.02" stroke="black" />
+                        </g>
+                    </g>
+                    <g transform="translate(-2, 0)">
+                        <g>
+                            <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s"
+                                repeatCount="indefinite" additive="sum" />
+                            <polygon
+                                points="1,0 0.5000000000000001,0.8660254037844386 -0.4999999999999998,0.8660254037844387 -1,1.2246467991473532e-16 -0.5000000000000004,-0.8660254037844385 0.49999999999999933,-0.866025403784439 1,-1.133107779529596e-15 "
+                                fill="none" stroke="black" stroke-width="0.02" />
+                            <line x1=1 y1=0 x2="0" y2="0" stroke-width="0.02" stroke="black" />
+                            <line x1=0.5000000000000001 y1=0.8660254037844386 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=-0.4999999999999998 y1=0.8660254037844387 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=-1 y1=1.2246467991473532e-16 x2="0" y2="0" stroke-width="0.02" stroke="black" />
+                            <line x1=-0.5000000000000004 y1=-0.8660254037844385 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=0.49999999999999933 y1=-0.866025403784439 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=1 y1=-1.133107779529596e-15 x2="0" y2="0" stroke-width="0.02" stroke="black" />
+                        </g>
+                    </g>
+
+                    <g transform="scale(4.3,0.3)">
+                        <rect x="-0.5" y="-0.5" width="1" height="1" stroke="red" fill="red" stroke-width="0.02" />
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(-1.8,1.8) scale(0.5,0.5)">
+                <g transform="scale(1,3) translate(0,-1)">
+                    <polygon points="-0.5,0 0.5,0 0,1" fill="purple" stroke="purple" stroke-width="0.02" />
+                </g>
+                <g>
+                    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s"
+                        repeatCount="indefinite" additive="sum" />
+                    <g transform="translate(2, 0)">
+                        <g>
+                            <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s"
+                                repeatCount="indefinite" additive="sum" />
+                            <polygon
+                                points="1,0 0.5000000000000001,0.8660254037844386 -0.4999999999999998,0.8660254037844387 -1,1.2246467991473532e-16 -0.5000000000000004,-0.8660254037844385 0.49999999999999933,-0.866025403784439 1,-1.133107779529596e-15 "
+                                fill="none" stroke="black" stroke-width="0.02" />
+                            <line x1=1 y1=0 x2="0" y2="0" stroke-width="0.02" stroke="black" />
+                            <line x1=0.5000000000000001 y1=0.8660254037844386 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=-0.4999999999999998 y1=0.8660254037844387 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=-1 y1=1.2246467991473532e-16 x2="0" y2="0" stroke-width="0.02" stroke="black" />
+                            <line x1=-0.5000000000000004 y1=-0.8660254037844385 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=0.49999999999999933 y1=-0.866025403784439 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=1 y1=-1.133107779529596e-15 x2="0" y2="0" stroke-width="0.02" stroke="black" />
+                        </g>
+                    </g>
+                    <g transform="translate(-2, 0)">
+                        <g>
+                            <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s"
+                                repeatCount="indefinite" additive="sum" />
+                            <polygon
+                                points="1,0 0.5000000000000001,0.8660254037844386 -0.4999999999999998,0.8660254037844387 -1,1.2246467991473532e-16 -0.5000000000000004,-0.8660254037844385 0.49999999999999933,-0.866025403784439 1,-1.133107779529596e-15 "
+                                fill="none" stroke="black" stroke-width="0.02" />
+                            <line x1=1 y1=0 x2="0" y2="0" stroke-width="0.02" stroke="black" />
+                            <line x1=0.5000000000000001 y1=0.8660254037844386 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=-0.4999999999999998 y1=0.8660254037844387 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=-1 y1=1.2246467991473532e-16 x2="0" y2="0" stroke-width="0.02" stroke="black" />
+                            <line x1=-0.5000000000000004 y1=-0.8660254037844385 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=0.49999999999999933 y1=-0.866025403784439 x2="0" y2="0" stroke-width="0.02"
+                                stroke="black" />
+                            <line x1=1 y1=-1.133107779529596e-15 x2="0" y2="0" stroke-width="0.02" stroke="black" />
+                        </g>
+                    </g>
+
+                    <g transform="scale(4.3,0.3)">
+                        <rect x="-0.5" y="-0.5" width="1" height="1" stroke="red" fill="red" stroke-width="0.02" />
+                    </g>
+                </g>
+            </g>
+        </g>
+    </svg>
